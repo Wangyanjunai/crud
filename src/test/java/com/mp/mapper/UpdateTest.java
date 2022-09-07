@@ -1,4 +1,4 @@
-package com.mp;
+package com.mp.mapper;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

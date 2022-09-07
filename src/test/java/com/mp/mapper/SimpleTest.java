@@ -1,4 +1,4 @@
-package com.mp;
+package com.mp.mapper;
 
 import java.util.List;
 

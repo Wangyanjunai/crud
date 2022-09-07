@@ -1,4 +1,4 @@
-package com.mp;
+package com.mp.mapper;
 
 import com.mp.dao.UserMapper;
 import com.mp.entity.User;
