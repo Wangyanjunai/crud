@@ -1,0 +1,19 @@
+# Maven #
+target/
+log/
+catalina_*/
+
+# IDEA #
+.idea
+*.iml
+
+# Eclipse #
+.settings/
+.classpath
+.project
+*.bak
+*.log
+*.gz
+*.factorypath
+.apt_generated/
+.apt_generated_tests/
