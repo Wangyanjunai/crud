@@ -22,7 +22,7 @@ public class ServiceTest {
 
     @Test
     public void getOne() {
-        User one = this.userService.getOne(Wrappers.<User>lambdaQuery().gt(User::getAge, 25).orderBy(true, false, User::getCreateTime), false);
+        User one = this.userService.getOne(Wrappers.<User>lambdaQuery().gt(User::getAge, 25), false);
         System.out.println(one);
     }
 }
